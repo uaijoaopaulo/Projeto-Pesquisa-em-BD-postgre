@@ -1,0 +1,22 @@
+C:\Users\Pedro\Desktop\Prova\Prova\Prova\bin\Prova.dll.config
+C:\Users\Pedro\Desktop\Prova\Prova\Prova\bin\Prova.dll
+C:\Users\Pedro\Desktop\Prova\Prova\Prova\bin\Prova.pdb
+C:\Users\Pedro\Desktop\Prova\Prova\Prova\bin\EntityFramework.dll
+C:\Users\Pedro\Desktop\Prova\Prova\Prova\bin\EntityFramework.SqlServer.dll
+C:\Users\Pedro\Desktop\Prova\Prova\Prova\bin\EntityFramework.xml
+C:\Users\Pedro\Desktop\Prova\Prova\Prova\bin\EntityFramework.SqlServer.xml
+C:\Users\Pedro\Desktop\Prova\Prova\Prova\obj\Debug\Prova.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\Prova\Prova\Prova\obj\Debug\Prova.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Prova\Prova\Prova\obj\Debug\Prova.csproj.CopyComplete
+C:\Users\Pedro\Desktop\Prova\Prova\Prova\obj\Debug\Prova.dll
+C:\Users\Pedro\Desktop\Prova\Prova\Prova\obj\Debug\Prova.pdb
+C:\Users\jpbra\Desktop\Prova Pedro\outro\Prova\Prova\Prova\bin\Prova.dll.config
+C:\Users\jpbra\Desktop\Prova Pedro\outro\Prova\Prova\Prova\bin\Prova.dll
+C:\Users\jpbra\Desktop\Prova Pedro\outro\Prova\Prova\Prova\bin\Prova.pdb
+C:\Users\jpbra\Desktop\Prova Pedro\outro\Prova\Prova\Prova\bin\EntityFramework.dll
+C:\Users\jpbra\Desktop\Prova Pedro\outro\Prova\Prova\Prova\bin\EntityFramework.SqlServer.dll
+C:\Users\jpbra\Desktop\Prova Pedro\outro\Prova\Prova\Prova\bin\EntityFramework.xml
+C:\Users\jpbra\Desktop\Prova Pedro\outro\Prova\Prova\Prova\bin\EntityFramework.SqlServer.xml
+C:\Users\jpbra\Desktop\Prova Pedro\outro\Prova\Prova\Prova\obj\Debug\Prova.csprojResolveAssemblyReference.cache
+C:\Users\jpbra\Desktop\Prova Pedro\outro\Prova\Prova\Prova\obj\Debug\Prova.dll
+C:\Users\jpbra\Desktop\Prova Pedro\outro\Prova\Prova\Prova\obj\Debug\Prova.pdb
